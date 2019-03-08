@@ -6,6 +6,8 @@ var prefix = '/'
 
 client.login("NTUzMTIxNzgyOTIwMzgwNDM2.D2JlBg.VjeqEXLxAttxbR3zMNlH0T7-JVA")
 
+")
+
 client.on('ready', function(){
 
      console.log("je suis connecté")
